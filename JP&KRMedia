@@ -1,0 +1,103 @@
+payload:
+  # 内容：日本媒体直播平台
+  # 数量：18条
+  - DOMAIN-SUFFIX,nhk.or.jp
+  - DOMAIN-SUFFIX,tbs.co.jp
+  - DOMAIN-SUFFIX,ntv.co.jp
+  - DOMAIN-SUFFIX,fuji-tv.co.jp
+  - DOMAIN-SUFFIX,asahi.co.jp
+  - DOMAIN-SUFFIX,txhd.co.jp
+  - DOMAIN-SUFFIX,tokyomx.co.jp
+  - DOMAIN-SUFFIX,wowow.co.jp
+  - DOMAIN-SUFFIX,animax.co.jp
+  - DOMAIN-SUFFIX,hulu.jp
+  - DOMAIN-SUFFIX,abema.tv
+  - DOMAIN-SUFFIX,abema.io
+  - DOMAIN-SUFFIX,radiko.jp
+  - DOMAIN-SUFFIX,video.unext.jp
+  - DOMAIN-SUFFIX,unext.jp
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,niconico.jp
+
+  # 内容：韩国媒体直播平台
+  # 数量：18条
+  - DOMAIN-SUFFIX,sbs.co.kr
+  - DOMAIN-SUFFIX,kbs.co.kr
+  - DOMAIN-SUFFIX,mbc.co.kr
+  - DOMAIN-SUFFIX,ebs.co.kr
+  - DOMAIN-SUFFIX,afreecatv.com
+  - DOMAIN-SUFFIX,tving.com
+  - DOMAIN-SUFFIX,wavve.com
+  - DOMAIN-SUFFIX,seezn.com
+  - DOMAIN-SUFFIX,olleh.tv
+  - DOMAIN-SUFFIX,navertv.com
+  - DOMAIN-SUFFIX,naver.com
+  - DOMAIN-SUFFIX,daum.net
+  - DOMAIN-SUFFIX,kakaotv.com
+  - DOMAIN-SUFFIX,kakao.com
+  - DOMAIN-SUFFIX,vlive.tv
+  - DOMAIN-SUFFIX,genie.co.kr
+  - DOMAIN-SUFFIX,bugs.co.kr
+  - DOMAIN-SUFFIX,melon.com
+
+  # 内容：Watcha 平台
+  # 数量：8条
+  - DOMAIN-SUFFIX,watcha.team
+  - DOMAIN-SUFFIX,watcha.com
+  - DOMAIN-SUFFIX,watcha.co.kr
+  - DOMAIN-SUFFIX,watcha.zendesk.com
+  - DOMAIN-SUFFIX,zdassets.com
+  - DOMAIN-SUFFIX,amz.wtchn.net
+  - DOMAIN-SUFFIX,watch-cdn.product.api.espn.com
+  - DOMAIN-KEYWORD,watcha
+
+  # 内容：Wavve 平台
+  # 数量：3条
+  - DOMAIN-SUFFIX,apis.pooq.co.kr
+  - DOMAIN-SUFFIX,pooq3-static-json.pooq.co.kr
+  - DOMAIN-KEYWORD,wavve
+
+  # 内容：Tving 平台
+  # 数量：9条
+  - DOMAIN-SUFFIX,launches.appsflyer.com
+  - DOMAIN-SUFFIX,sdk.iad-05.braze.com
+  - DOMAIN-SUFFIX,graph.facebook.com
+  - DOMAIN-SUFFIX,ipv4.cws.conviva.com
+  - DOMAIN-SUFFIX,ipv6.cws.conviva.com
+  - DOMAIN-SUFFIX,cj.drmkeyserver.com
+  - DOMAIN-SUFFIX,image.pip.cjenm.com
+  - DOMAIN-SUFFIX,hqkoz2vau9.execute-api.ap-northeast-2.amazonaws.com
+  - DOMAIN-KEYWORD,tving
+
+  # 内容：Coupang 平台
+  # 数量：3条
+  - DOMAIN-SUFFIX,coupang.com
+  - DOMAIN-SUFFIX,coupangplay.com
+  - DOMAIN-KEYWORD,coupang
+
+  # 内容：Naver 平台
+  # 数量：4条
+  - DOMAIN-SUFFIX,smartmediarep.com
+  - DOMAIN-SUFFIX,livecloud-thumb.akamaized.net
+  - DOMAIN-SUFFIX,pstatic.net
+  - DOMAIN-KEYWORD,naver
+
+  # 内容：Weverse 平台
+  # 数量：3条
+  - DOMAIN-SUFFIX,weverse.io
+  - DOMAIN-SUFFIX,phinf.wevpstatic.net
+  - DOMAIN-KEYWORD,weverse
+
+  # 内容：AfreecaTV 平台
+  # 数量：3条
+  - DOMAIN-SUFFIX,afreecatv.com
+  - DOMAIN-KEYWORD,afreeca
+  - DOMAIN-KEYWORD,afreecatv
+
+  # 内容：KBS 平台
+  # 数量：4条
+  - DOMAIN-SUFFIX,vod.kbs.co.kr
+  - DOMAIN-SUFFIX,kbs.co.kr
+  - DOMAIN-SUFFIX,kr
+  - DOMAIN-KEYWORD,.kr
