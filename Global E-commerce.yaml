@@ -1,0 +1,119 @@
+payload:
+  # 内容：Shopee 东南亚电商平台
+  - DOMAIN-SUFFIX,shopee.com
+  - DOMAIN-SUFFIX,shopee.sg
+  - DOMAIN-SUFFIX,shopee.co.id
+  - DOMAIN-SUFFIX,shopee.com.my
+  - DOMAIN-SUFFIX,shopee.ph
+  - DOMAIN-SUFFIX,shopee.vn
+  - DOMAIN-SUFFIX,shopee.co.th
+  - DOMAIN-SUFFIX,shopee.tw
+  - DOMAIN-SUFFIX,shopeemobile.com
+  - DOMAIN-SUFFIX,xiapibuy.com
+
+  # 内容：Amazon 全球电商平台
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazon.co.uk
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,amazon.de
+  - DOMAIN-SUFFIX,amazon.fr
+  - DOMAIN-SUFFIX,amazon.it
+  - DOMAIN-SUFFIX,amazon.es
+  - DOMAIN-SUFFIX,amazon.in
+  - DOMAIN-SUFFIX,amazon.ca
+  - DOMAIN-SUFFIX,amazon.com.au
+  - DOMAIN-SUFFIX,amazon.com.br
+  - DOMAIN-SUFFIX,amazon.sg
+  - DOMAIN-SUFFIX,amazon.sa
+  - DOMAIN-SUFFIX,amazon.ae
+  - DOMAIN-SUFFIX,amazon.com.mx
+
+  # 内容：eBay 全球电商平台
+  - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN-SUFFIX,ebay.co.uk
+  - DOMAIN-SUFFIX,ebay.de
+  - DOMAIN-SUFFIX,ebay.fr
+  - DOMAIN-SUFFIX,ebay.it
+  - DOMAIN-SUFFIX,ebay.es
+  - DOMAIN-SUFFIX,ebay.ca
+  - DOMAIN-SUFFIX,ebay.com.au
+
+  # 内容：Walmart 美国零售平台
+  - DOMAIN-SUFFIX,walmart.com
+  - DOMAIN-SUFFIX,walmart.ca
+  - DOMAIN-SUFFIX,walmart.com.mx
+
+  # 内容：Etsy 手工艺品平台
+  - DOMAIN-SUFFIX,etsy.com
+  - DOMAIN-SUFFIX,etsystatic.com
+
+  # 内容：Rakuten 日本乐天
+  - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,rakuten.com
+  - DOMAIN-SUFFIX,rakuten.ne.jp
+  - DOMAIN-SUFFIX,rakuten-static.com
+
+  # 内容：Mercado Libre 拉美电商平台
+  - DOMAIN-SUFFIX,mercadolibre.com
+  - DOMAIN-SUFFIX,mercadolibre.com.mx
+  - DOMAIN-SUFFIX,mercadolibre.com.ar
+  - DOMAIN-SUFFIX,mercadolivre.com.br
+
+  # 内容：Lazada 东南亚电商平台
+  - DOMAIN-SUFFIX,lazada.com
+  - DOMAIN-SUFFIX,lazada.sg
+  - DOMAIN-SUFFIX,lazada.co.id
+  - DOMAIN-SUFFIX,lazada.com.my
+  - DOMAIN-SUFFIX,lazada.vn
+  - DOMAIN-SUFFIX,lazada.co.th
+  - DOMAIN-SUFFIX,lzd.co
+
+  # 内容：AliExpress 国际速卖通
+  - DOMAIN-SUFFIX,aliexpress.com
+  - DOMAIN-SUFFIX,ae.aliexpress.com
+  - DOMAIN-SUFFIX,shopping.aliexpress.com
+
+  # 内容：Zalando 欧洲时尚电商
+  - DOMAIN-SUFFIX,zalando.com
+  - DOMAIN-SUFFIX,zalando.de
+  - DOMAIN-SUFFIX,zalando.fr
+  - DOMAIN-SUFFIX,zalando.it
+  - DOMAIN-SUFFIX,zalando.nl
+
+  # 内容：ASOS 英国时尚电商
+  - DOMAIN-SUFFIX,asos.com
+  - DOMAIN-SUFFIX,asosservices.com
+
+  # 内容：Coupang 韩国电商平台
+  - DOMAIN-SUFFIX,coupang.com
+  - DOMAIN-SUFFIX,coupangplay.com
+
+  # 内容：Target 美国零售平台
+  - DOMAIN-SUFFIX,target.com
+
+  # 内容：Wayfair 家居电商平台
+  - DOMAIN-SUFFIX,wayfair.com
+
+  # 内容：Newegg 科技电商平台
+  - DOMAIN-SUFFIX,newegg.com
+
+  # 内容：JD.ID 印尼京东
+  - DOMAIN-SUFFIX,jd.id
+
+  # 内容：Fnac 法国电商平台
+  - DOMAIN-SUFFIX,fnac.com
+
+  # 内容：Allegro 波兰电商平台
+  - DOMAIN-SUFFIX,allegro.pl
+
+  # 内容：Noon 中东电商平台
+  - DOMAIN-SUFFIX,noon.com
+
+  # 内容：Shein 全球快时尚平台
+  - DOMAIN-SUFFIX,shein.com
+
+  # 内容：Temu 全球低价电商平台
+  - DOMAIN-SUFFIX,temu.com
+
+  # 内容：TikTok Shop 电商平台
+  - DOMAIN-SUFFIX,tiktokshop.com
