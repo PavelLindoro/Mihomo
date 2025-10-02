@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,bybitglobal.com
   - DOMAIN-SUFFIX,bybitwallet.com
   - DOMAIN-SUFFIX,bybitapi.com
+  - DOMAIN-KEYWORD,bybit
 
   # 内容：KuCoin交易所
   - DOMAIN-SUFFIX,kucoin.com
