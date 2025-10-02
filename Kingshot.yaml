@@ -1,0 +1,21 @@
+payload:
+  # 内容：Kingshot 游戏加速规则
+  - DOMAIN-SUFFIX,kingshot.centurygame.com
+  - DOMAIN-SUFFIX,ks-giftcode.centurygame.com
+  - DOMAIN-SUFFIX,centurygame.com
+  - DOMAIN-SUFFIX,centurygames.com
+  - DOMAIN-SUFFIX,cdn.centurygame.com
+  - DOMAIN-SUFFIX,api.centurygame.com
+  - DOMAIN-SUFFIX,log.centurygame.com
+  - DOMAIN-SUFFIX,update.centurygame.com
+  - DOMAIN-SUFFIX,resource.centurygame.com
+  - DOMAIN-SUFFIX,static.centurygame.com
+  - DOMAIN-SUFFIX,centurygame.helpshift.com
+  - DOMAIN-SUFFIX,helpshift.com
+  - DOMAIN-SUFFIX,cdn.helpshift.com
+  - DOMAIN-SUFFIX,gameanalytics.com
+  - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleusercontent.com
