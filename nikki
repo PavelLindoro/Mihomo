@@ -1,1 +1,64 @@
+payload:
+  # 内容：币安交易所
+  # 数量：9条
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,bnappzh.co
+  - DOMAIN-SUFFIX,bnbzh.ac
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,saasexch.com
+  - DOMAIN-SUFFIX,appsflayer.com
 
+  # 内容：OKX交易所
+  # 数量：5条
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,oklink.com
+  - DOMAIN-SUFFIX,okcoin.com
+  - DOMAIN-SUFFIX,okgroup.com
+
+  # 内容：Coinbase交易所
+  # 数量：4条
+  - DOMAIN-SUFFIX,coinbase.com
+  - DOMAIN-SUFFIX,cbgateway.com
+  - DOMAIN-SUFFIX,coinbasewallet.com
+  - DOMAIN-SUFFIX,coinbasecloud.net
+
+  # 内容：Bybit交易所
+  # 数量：4条
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bybitglobal.com
+  - DOMAIN-SUFFIX,bybitwallet.com
+  - DOMAIN-SUFFIX,bybitapi.com
+
+  # 内容：KuCoin交易所
+  # 数量：3条
+  - DOMAIN-SUFFIX,kucoin.com
+  - DOMAIN-SUFFIX,kcs.foundation
+  - DOMAIN-SUFFIX,kucoinassets.com
+
+  # 内容：Gate.io交易所
+  # 数量：3条
+  - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,gateapi.io
+  - DOMAIN-SUFFIX,gateway.io
+
+  # 内容：MEXC交易所
+  # 数量：3条
+  - DOMAIN-SUFFIX,mexc.com
+  - DOMAIN-SUFFIX,mexc.ai
+  - DOMAIN-SUFFIX,mexc.link
+
+  # 内容：Bitget交易所
+  # 数量：3条
+  - DOMAIN-SUFFIX,bitget.com
+  - DOMAIN-SUFFIX,bitgetapi.com
+  - DOMAIN-SUFFIX,bitgetglobal.com
+
+  # 内容：Crypto.com交易所
+  # 数量：3条
+  - DOMAIN-SUFFIX,crypto.com
+  - DOMAIN-SUFFIX,cryptocompare.com
+  - DOMAIN-SUFFIX,cryptowallet.com
