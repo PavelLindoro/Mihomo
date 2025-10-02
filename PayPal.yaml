@@ -1,0 +1,12 @@
+payload:
+  # 内容：PayPal 支付平台
+  # 数量：9条
+  - DOMAIN-SUFFIX,paypal.com
+  - DOMAIN-SUFFIX,paypalobjects.com
+  - DOMAIN-SUFFIX,paypal.me
+  - DOMAIN-SUFFIX,paypal.cn
+  - DOMAIN-SUFFIX,paypal-community.com
+  - DOMAIN-SUFFIX,paypal-mktg.com
+  - DOMAIN-SUFFIX,paypalinc.com
+  - DOMAIN-SUFFIX,paypalcorp.com
+  - DOMAIN-SUFFIX,pypl.com
