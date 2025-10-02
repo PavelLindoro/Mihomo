@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,saasexch.com
   - DOMAIN-SUFFIX,appsflayer.com
+  - DOMAIN-SUFFIX,binance.info
 
   # 内容：OKX交易所
   # 数量：5条
