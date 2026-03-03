@@ -94,7 +94,22 @@ payload:
   - DOMAIN-SUFFIX,afreecatv.com
   - DOMAIN-KEYWORD,afreeca
   - DOMAIN-KEYWORD,afreecatv
+  - DOMAIN-SUFFIX,afreecatv.com,SOOP
+  - DOMAIN-SUFFIX,sooplive.co.kr,SOOP
+  - DOMAIN-SUFFIX,play.afreecatv.com,SOOP
+  - DOMAIN-SUFFIX,vod.afreecatv.com,SOOP
+  - DOMAIN-SUFFIX,bj.afreecatv.com,SOOP
+  - DOMAIN-SUFFIX,live.sooplive.co.kr,SOOP
+  - DOMAIN-SUFFIX,login.sooplive.co.kr,SOOP
+  - DOMAIN-SUFFIX,member.sooplive.co.kr,SOOP
+  - DOMAIN-SUFFIX,esports.sooplive.co.kr,SOOP
+  - DOMAIN-SUFFIX,afevent2.sooplive.co.kr,SOOP
+  - DOMAIN-SUFFIX,openapi.sooplive.co.kr,SOOP
 
+  # ===== Keyword 兜底匹配 =====
+  - DOMAIN-KEYWORD,afreeca,SOOP
+  - DOMAIN-KEYWORD,soop,SOOP
+  
   # 内容：KBS 平台
   # 数量：4条
   - DOMAIN-SUFFIX,vod.kbs.co.kr
@@ -292,3 +307,13 @@ payload:
   - DOMAIN-SUFFIX,js.stripe.com
   - DOMAIN-SUFFIX,jp.adventurekk.com
   - DOMAIN-SUFFIX,js.tappaysdk.com
+
+    # ===== 官方 ASN IP 段 (AS4669) =====
+  - IP-CIDR,203.238.128.0/19,SOOP,no-resolve
+
+  # ===== 实测解析 IP 段聚合 =====
+  - IP-CIDR,61.253.216.0/21,SOOP,no-resolve
+  - IP-CIDR,118.218.124.0/22,SOOP,no-resolve
+  - IP-CIDR,118.222.181.0/24,SOOP,no-resolve
+  - IP-CIDR,123.111.232.0/24,SOOP,no-resolve
+  - IP-CIDR,211.110.200.0/24,SOOP,no-resolve
