@@ -41,6 +41,44 @@ payload:
   - DOMAIN-SUFFIX,bugs.co.kr
   - DOMAIN-SUFFIX,melon.com
 
+  # ===== AfreecaTV / SOOP =====
+  - DOMAIN-SUFFIX,afreecatv.com
+  - DOMAIN-SUFFIX,sooplive.co.kr
+
+  # Common Subdomains
+  - DOMAIN-SUFFIX,play.afreecatv.com
+  - DOMAIN-SUFFIX,vod.afreecatv.com
+  - DOMAIN-SUFFIX,bj.afreecatv.com
+  - DOMAIN-SUFFIX,live.sooplive.co.kr
+  - DOMAIN-SUFFIX,vod.sooplive.co.kr
+  - DOMAIN-SUFFIX,member.sooplive.co.kr
+  - DOMAIN-SUFFIX,login.sooplive.co.kr
+  - DOMAIN-SUFFIX,openapi.sooplive.co.kr
+
+  # Fallback Match
+  - DOMAIN-KEYWORD,afreeca
+  - DOMAIN-KEYWORD,soop
+
+
+  # ===== Nicovideo / Niconico =====
+  - DOMAIN-SUFFIX,nicovideo.jp
+
+  # Common Subdomains
+  - DOMAIN-SUFFIX,www.nicovideo.jp
+  - DOMAIN-SUFFIX,sp.nicovideo.jp
+  - DOMAIN-SUFFIX,account.nicovideo.jp
+  - DOMAIN-SUFFIX,seiga.nicovideo.jp
+  - DOMAIN-SUFFIX,live.nicovideo.jp
+  - DOMAIN-SUFFIX,dic.nicovideo.jp
+  - DOMAIN-SUFFIX,news.nicovideo.jp
+  - DOMAIN-SUFFIX,ch.nicovideo.jp
+  - DOMAIN-SUFFIX,commons.nicovideo.jp
+  - DOMAIN-SUFFIX,cas.nicovideo.jp
+
+  # Fallback Match
+  - DOMAIN-KEYWORD,niconico
+  - DOMAIN-KEYWORD,nicovideo
+  
   # 内容：Watcha 平台
   # 数量：8条
   - DOMAIN-SUFFIX,watcha.team
@@ -88,27 +126,6 @@ payload:
   - DOMAIN-SUFFIX,weverse.io
   - DOMAIN-SUFFIX,phinf.wevpstatic.net
   - DOMAIN-KEYWORD,weverse
-
-  # 内容：AfreecaTV 平台
-  # 数量：3条
-  - DOMAIN-SUFFIX,afreecatv.com
-  - DOMAIN-KEYWORD,afreeca
-  - DOMAIN-KEYWORD,afreecatv
-  - DOMAIN-SUFFIX,afreecatv.com,SOOP
-  - DOMAIN-SUFFIX,sooplive.co.kr,SOOP
-  - DOMAIN-SUFFIX,play.afreecatv.com,SOOP
-  - DOMAIN-SUFFIX,vod.afreecatv.com,SOOP
-  - DOMAIN-SUFFIX,bj.afreecatv.com,SOOP
-  - DOMAIN-SUFFIX,live.sooplive.co.kr,SOOP
-  - DOMAIN-SUFFIX,login.sooplive.co.kr,SOOP
-  - DOMAIN-SUFFIX,member.sooplive.co.kr,SOOP
-  - DOMAIN-SUFFIX,esports.sooplive.co.kr,SOOP
-  - DOMAIN-SUFFIX,afevent2.sooplive.co.kr,SOOP
-  - DOMAIN-SUFFIX,openapi.sooplive.co.kr,SOOP
-
-  # ===== Keyword 兜底匹配 =====
-  - DOMAIN-KEYWORD,afreeca,SOOP
-  - DOMAIN-KEYWORD,soop,SOOP
   
   # 内容：KBS 平台
   # 数量：4条
@@ -117,7 +134,6 @@ payload:
   - DOMAIN-SUFFIX,kr
   - DOMAIN-KEYWORD,.kr
 
-payload:
   # 内容：AbemaTV
   - DOMAIN-SUFFIX,abema-tv.com
   - DOMAIN-SUFFIX,abema.io
@@ -307,13 +323,5 @@ payload:
   - DOMAIN-SUFFIX,js.stripe.com
   - DOMAIN-SUFFIX,jp.adventurekk.com
   - DOMAIN-SUFFIX,js.tappaysdk.com
-
-    # ===== 官方 ASN IP 段 (AS4669) =====
-  - IP-CIDR,203.238.128.0/19,SOOP,no-resolve
-
-  # ===== 实测解析 IP 段聚合 =====
-  - IP-CIDR,61.253.216.0/21,SOOP,no-resolve
-  - IP-CIDR,118.218.124.0/22,SOOP,no-resolve
-  - IP-CIDR,118.222.181.0/24,SOOP,no-resolve
   - IP-CIDR,123.111.232.0/24,SOOP,no-resolve
   - IP-CIDR,211.110.200.0/24,SOOP,no-resolve
