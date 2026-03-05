@@ -73,7 +73,6 @@ payload:
   - DOMAIN-KEYWORD,wavve
   - DOMAIN-SUFFIX,launches.appsflyer.com
   - DOMAIN-SUFFIX,sdk.iad-05.braze.com
-  - DOMAIN-SUFFIX,graph.facebook.com
   - DOMAIN-SUFFIX,ipv4.cws.conviva.com
   - DOMAIN-SUFFIX,ipv6.cws.conviva.com
   - DOMAIN-SUFFIX,cj.drmkeyserver.com
