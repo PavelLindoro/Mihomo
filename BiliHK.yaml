@@ -1,5 +1,6 @@
-  - DOMAIN,api.bilibili.com
-  - DOMAIN,api.biliapi.net
-  - DOMAIN,app.bilibili.com
-  - DOMAIN,app.biliapi.net
-  - DOMAIN,grpc.biliapi.net
+payload:
+  - DOMAIN-SUFFIX,api.bilibili.com
+  - DOMAIN-SUFFIX,api.biliapi.net
+  - DOMAIN-SUFFIX,app.bilibili.com
+  - DOMAIN-SUFFIX,app.biliapi.net
+  - DOMAIN-SUFFIX,grpc.biliapi.net
